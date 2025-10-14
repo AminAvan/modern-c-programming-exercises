@@ -8,6 +8,7 @@ int main (){
     term = 3 * 5;
     term_2 = 2 * term;
     term_3 = 3 * term_2;
+    printf("term: %d, term_2: %d, term_3: %d\n", term, term_2, term_3);
     printf("term: %d\n", term);
     printf("term_2: %d\n", term_2);
     printf("term_3: %d\n", term_3);
