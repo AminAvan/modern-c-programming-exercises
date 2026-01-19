@@ -1,3 +1,7 @@
+/*
+Computes the dimensional weight of a box, dimentions are hard-coded.
+*/
+
 #include <stdio.h>
 
 int main(void){
