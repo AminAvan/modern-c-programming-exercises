@@ -1,17 +1,16 @@
 /*
-Reversing the three digits based on arithmetic expressions.
+Reversing the three digits based on scanf and printf trick.
 */
 
 #include <stdio.h>
 
 int main(void){
-    int input, output;
+    int a, b, c;
 
-    printf("Enter a three-digit number: ");
-    scanf("%d", &input);
+    printf("Enter a two-digit number: ");
+    scanf("%1d%1d%1d", &a, &b, &c);
 
-    output = ((input % 10) * 100) + (((input / 10) % 10) * 10) + (input / 100);
-    printf("The reversal is: %03d", output);
+    printf("The reversal is: %d%d%d", c, b, a);
 
     return 0;
 }
