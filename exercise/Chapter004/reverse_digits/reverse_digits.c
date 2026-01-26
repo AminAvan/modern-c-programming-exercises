@@ -1,3 +1,7 @@
+/*
+Reversing the digits based on scanf and printf trick.
+*/
+
 #include <stdio.h>
 
 int main(void){

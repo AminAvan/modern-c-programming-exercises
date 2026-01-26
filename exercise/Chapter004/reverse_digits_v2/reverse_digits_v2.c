@@ -1,3 +1,7 @@
+/*
+Reversing the digits based on math expressions.
+*/
+
 #include <stdio.h>
 
 int main(void){
