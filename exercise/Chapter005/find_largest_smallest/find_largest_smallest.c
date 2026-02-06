@@ -10,5 +10,3 @@ int main(void){
 
     return 0;
 }
-
-//D:\Amin Files from OT laptop\Learn C\C_review\exercise\Chapter005\find_largest_smallest\find_largest_smallest.c
