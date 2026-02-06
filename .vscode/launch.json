@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/100807003/OneDrive - Ontario Tech University/Learn C/C_review",
-      "program": "c:/Users/100807003/OneDrive - Ontario Tech University/Learn C/C_review/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
