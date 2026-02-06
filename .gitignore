@@ -1,0 +1,10 @@
+# Ignore VS Code specific settings
+.vscode/
+
+# Ignore compiled executable files (never commit binaries!)
+*.exe
+*.o
+*.out
+
+# Ignore Debug/Build folders created by extensions
+build/
