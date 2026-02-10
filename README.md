@@ -11,7 +11,7 @@ The code is organized by chapter to track progression through language features:
 * `exercise/`: Solutions to specific book exercises (Chapter 01 - Chapter 27).
 * `example/`: Solutions to specific book examples (Chapter 01 - Chapter 27).
 
-## 🛠 Key Concepts Implemented
+<!--## 🛠 Key Concepts Implemented
 
 Throughout these exercises, the following concepts are explored and implemented:
 
@@ -20,11 +20,11 @@ Throughout these exercises, the following concepts are explored and implemented:
 * **Data Structures:** Implementation of linked lists, trees, and custom structs.
 * **The Preprocessor:** Macro definitions, conditional compilation, and header guards.
 * **File I/O:** Stream processing and binary file manipulation.
-* **Build Systems:** Usage of `Makefiles` for automated compilation.
+* **Build Systems:** Usage of `Makefiles` for automated compilation. -->
 
 ## 🚀 How to Build
 
-All code is written to be compliant with the C99 standard (or C11 where noted).
+All code is written to be compliant with the C99 standard.
 
 **Prerequisites:**
 * GCC or Clang compiler
