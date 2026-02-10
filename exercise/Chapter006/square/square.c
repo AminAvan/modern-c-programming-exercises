@@ -8,7 +8,7 @@ int main(void){
     scanf("%d", &user_input);
 
     while (user_input >= i){
-        printf("%d      %d\n", i, (i*i));
+        printf("%10d%10d\n", i, (i*i));
         i++;
     }
 
