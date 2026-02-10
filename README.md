@@ -8,10 +8,8 @@ The goal of this project is to refresh core systems programming concepts, enforc
 
 The code is organized by chapter to track progression through language features:
 
-* `src/`: Source code for larger exercises and mini-projects.
-* `exercises/`: Solutions to specific book exercises (Chapter 01 - Chapter 27).
-* `include/`: Header files for reusable user-defined libraries.
-* `notes/`: Personal documentation on specific C behaviors (undefined behavior, sequence points, etc.).
+* `exercise/`: Solutions to specific book exercises (Chapter 01 - Chapter 27).
+* `example/`: Solutions to specific book examples (Chapter 01 - Chapter 27).
 
 ## 🛠 Key Concepts Implemented
 
