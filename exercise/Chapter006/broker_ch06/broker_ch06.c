@@ -36,7 +36,5 @@ int main(void){
         scanf("%f", &val_trade);
     }
 
-    
-
     return 0;
 }
