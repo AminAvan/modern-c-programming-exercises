@@ -1,6 +1,6 @@
 # C Programming: A Modern Approach (Solutions & Study)
 
-This repository serves as a sandbox for reviewing C, following the curriculum of **"C Programming: A Modern Approach" (2nd Edition) by K.N. King**.
+This repository contains structured C programming exercises and implementations developed while reviewing core language concepts using **"C Programming: A Modern Approach" (2nd Edition) by K.N. King**. 
 
 The goal of this project is to refresh core systems programming concepts, enforce strict coding standards, and explore low-level memory management techniques.
 
