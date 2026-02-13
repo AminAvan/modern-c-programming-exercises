@@ -13,6 +13,7 @@ int main(void){
             i_factoriel *= j;
         }
 
+        //printf("each term value: %g\n", (1/i_factoriel));
         e_val += (1/i_factoriel);
         i_factoriel = 1;
     }
