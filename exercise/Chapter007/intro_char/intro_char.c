@@ -13,4 +13,5 @@ int main(void){
     printf("ch_3: %c\n", ch_3);
     printf("ch_4: %c\n", ch_4);
 
+    return 0;
 }
