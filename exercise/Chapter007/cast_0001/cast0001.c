@@ -6,7 +6,7 @@ int main(void){
 
     quotient = dividend / divisor ;
 
-    printf("quotient: %f", quotient);
+    printf("\nquotient: %f", quotient);
 
     return 0;
 }
