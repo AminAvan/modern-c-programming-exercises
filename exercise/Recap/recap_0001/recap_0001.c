@@ -1,25 +1,14 @@
 #include <stdio.h>
 
 int main(void){
-    int a, c, i = 0, result = 0;
+    int a, c1, c2, c3;
     float b;
 
-    printf("Enter integer value to decompose it into its digit's place value: ");
-    for (;;) {
-        if (scanf("%1d", &c) == 1){
-            if (i == 0){
-            printf("\nThe %d is Ones.", c);
-            }
-            if (i == 1){
-                printf("\nThe %d is Tens.", c);
-            }
-            if (i == 2){
-                printf("\nThe %d is Hundreds.", c);
-            }
-            i += 1;
-            printf("\nresult: %d", result);
-        }
-    }
+    printf("Enter integer value to decompose it into its digit's place value (enter between 100 - 999): ");
+    scanf("%1d%1d%1d", &c1, &c2, &c3);
+    printf("\nThe %d is Ones.", c1);
+    printf("\nThe %d is Tens.", c2);
+    printf("\nThe %d is Hundreds.", c3);
 
     printf("\nEnter integer value for 'a': ");
     scanf("%d", &a);
